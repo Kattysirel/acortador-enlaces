@@ -1,4 +1,4 @@
-const API_URL = "http://IP_PUBLICA_EC2:8000";
+const API_URL = "http://IP_EC2:8000";
 
 const form = document.getElementById("form");
 const urlInput = document.getElementById("url");
