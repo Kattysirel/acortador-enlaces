@@ -1,0 +1,8 @@
+body { font-family: Arial, sans-serif; background: #fdf0f5; display: flex; justify-content: center; padding: 60px 16px; margin: 0; }
+.card { background: #fff; padding: 28px; border-radius: 16px; width: 100%; max-width: 520px; box-shadow: 0 4px 16px rgba(0,0,0,.08); }
+h1 { margin-top: 0; color: #c2185b; font-size: 22px; }
+form, .result { display: flex; gap: 8px; margin-top: 12px; }
+input { flex: 1; padding: 10px; border: 1px solid #ddd; border-radius: 8px; }
+button { padding: 10px 16px; border: none; border-radius: 8px; background: #e91e8c; color: #fff; cursor: pointer; }
+.error { color: #c62828; min-height: 20px; }
+.hidden { display: none; }
